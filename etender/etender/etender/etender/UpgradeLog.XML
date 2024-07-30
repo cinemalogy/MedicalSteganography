@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="etender">
+</Property><Property Name="Solution File" Value="D:\Projects\2. Vb.net Projects\etender\etender.sln">
+</Property><Property Name="Date" Value="06 July 2018">
+</Property><Property Name="Time" Value="12:32">
+</Property></Properties><Event ErrorLevel="0" Project="etender" Source="etender\etender.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="etender" Source="etender\etender.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="etender.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="etender.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="etender" Source="etender\etender.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

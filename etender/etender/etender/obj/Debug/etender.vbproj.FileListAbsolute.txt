@@ -1,0 +1,114 @@
+D:\Projects\2. Vb.net Projects\etender\etender\bin\Debug\etender.exe
+D:\Projects\2. Vb.net Projects\etender\etender\bin\Debug\etender.pdb
+D:\Projects\2. Vb.net Projects\etender\etender\bin\Debug\etender.xml
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.Resources.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.vbproj.GenerateResource.Cache
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.exe
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.xml
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.pdb
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.emplogin.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.suplogin.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.adminlogin.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.adminmain.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.addemp.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewemp.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.emphome.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.additem.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.main.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewitems.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.supreg.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewsup.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewitemsordered.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.notifi.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.suphome.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.appliedtender.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewbidding.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.approvedbid.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.approvedbid1.resources
+D:\Projects\2. Vb.net Projects\etender\etender\obj\Debug\etender.approvedbid2.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.exe
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.xml
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.pdb
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\bin\Debug\etender.exe
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\bin\Debug\etender.pdb
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\bin\Debug\etender.xml
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.addemp.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.additem.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.adminlogin.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.adminmain.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.appliedtender.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.approvedbid.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.approvedbid1.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.approvedbid2.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.emphome.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.emplogin.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.main.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.Resources.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.notifi.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.suphome.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.suplogin.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.supreg.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewbidding.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewemp.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewitems.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewitemsordered.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.viewsup.resources
+C:\Users\ankit\Desktop\Office\2. Vb.net Projects\etender\etender\obj\Debug\etender.vbproj.GenerateResource.Cache
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.exe
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.xml
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.pdb
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.addemp.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.additem.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.adminlogin.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.adminmain.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.appliedtender.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.approvedbid.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.approvedbid1.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.approvedbid2.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.emphome.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.emplogin.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.main.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.Resources.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.notifi.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.suphome.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.suplogin.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.supreg.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.viewbidding.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.viewemp.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.viewitems.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.viewitemsordered.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.viewsup.resources
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.vbproj.GenerateResource.Cache
+C:\Users\panka\OneDrive\Documents\etender\etender\bin\Debug\etender.exe
+C:\Users\panka\OneDrive\Documents\etender\etender\bin\Debug\etender.pdb
+C:\Users\panka\OneDrive\Documents\etender\etender\bin\Debug\etender.xml
+C:\Users\panka\OneDrive\Documents\etender\etender\obj\Debug\etender.splash_screen.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.exe
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.xml
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.pdb
+C:\Users\Harshan\Desktop\etender\etender\etender\bin\Debug\etender.exe
+C:\Users\Harshan\Desktop\etender\etender\etender\bin\Debug\etender.pdb
+C:\Users\Harshan\Desktop\etender\etender\etender\bin\Debug\etender.xml
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.addemp.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.additem.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.adminlogin.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.adminmain.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.appliedtender.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.approvedbid.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.approvedbid1.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.approvedbid2.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.emphome.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.emplogin.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.main.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.Resources.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.notifi.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.splash_screen.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.suphome.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.suplogin.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.supreg.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.viewbidding.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.viewemp.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.viewitems.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.viewitemsordered.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.viewsup.resources
+C:\Users\Harshan\Desktop\etender\etender\etender\obj\Debug\etender.vbproj.GenerateResource.Cache

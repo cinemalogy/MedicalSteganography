@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DFD543A1-DC72-407A-9E0E-25DB673E2FCA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MedicalSteganography.My.MyApplication</StartupObject>
+    <RootNamespace>MedicalSteganography</RootNamespace>
+    <AssemblyName>MedicalSteganography</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MedicalSteganography.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MedicalSteganography.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdmissionForm.Designer.vb">
+      <DependentUpon>AdmissionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdmissionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillingListReport.designer.vb">
+      <DependentUpon>BillingListReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BillingListReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustForm.Designer.vb">
+      <DependentUpon>CustForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeptForm.Designer.vb">
+      <DependentUpon>DeptForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeptForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorDetForm.Designer.vb">
+      <DependentUpon>DoctorDetForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorDetForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpDetForm.Designer.vb">
+      <DependentUpon>EmpDetForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmpDetForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeListReport.designer.vb">
+      <DependentUpon>EmployeeListReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeListReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlashScreen.Designer.vb">
+      <DependentUpon>FlashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FlashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InPatientBillingForm.Designer.vb">
+      <DependentUpon>InPatientBillingForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InPatientBillingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InPatientDetailsForm.Designer.vb">
+      <DependentUpon>InPatientDetailsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InPatientDetailsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InPatientListReport.designer.vb">
+      <DependentUpon>InPatientListReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InPatientListReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OutPatientConsList.designer.vb">
+      <DependentUpon>OutPatientConsList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutPatientConsList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutPatientConsulationForm.Designer.vb">
+      <DependentUpon>OutPatientConsulationForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutPatientConsulationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutPatientDetailsForm.Designer.vb">
+      <DependentUpon>OutPatientDetailsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutPatientDetailsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutPatientList.designer.vb">
+      <DependentUpon>OutPatientList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutPatientList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STeganography.Designer.vb">
+      <DependentUpon>STeganography.vb</DependentUpon>
+    </Compile>
+    <Compile Include="STeganography.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdmissionForm.resx">
+      <DependentUpon>AdmissionForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillingListReport.resx">
+      <DependentUpon>BillingListReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustForm.resx">
+      <DependentUpon>CustForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeptForm.resx">
+      <DependentUpon>DeptForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorDetForm.resx">
+      <DependentUpon>DoctorDetForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpDetForm.resx">
+      <DependentUpon>EmpDetForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeListReport.resx">
+      <DependentUpon>EmployeeListReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlashScreen.resx">
+      <DependentUpon>FlashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InPatientBillingForm.resx">
+      <DependentUpon>InPatientBillingForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InPatientDetailsForm.resx">
+      <DependentUpon>InPatientDetailsForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InPatientListReport.resx">
+      <DependentUpon>InPatientListReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutPatientConsList.resx">
+      <DependentUpon>OutPatientConsList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutPatientConsulationForm.resx">
+      <DependentUpon>OutPatientConsulationForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutPatientDetailsForm.resx">
+      <DependentUpon>OutPatientDetailsForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutPatientList.resx">
+      <DependentUpon>OutPatientList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STeganography.resx">
+      <DependentUpon>STeganography.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images 1.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

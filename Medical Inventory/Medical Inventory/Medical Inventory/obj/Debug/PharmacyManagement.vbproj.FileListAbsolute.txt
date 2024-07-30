@@ -1,0 +1,3 @@
+C:\Users\AcerPc\Downloads\Pharmacy Management (2)\Pharmacy Management\obj\Debug\PharmacyManagement.exe
+C:\Users\AcerPc\Downloads\Pharmacy Management (2)\Pharmacy Management\obj\Debug\PharmacyManagement.xml
+C:\Users\AcerPc\Downloads\Pharmacy Management (2)\Pharmacy Management\obj\Debug\PharmacyManagement.pdb

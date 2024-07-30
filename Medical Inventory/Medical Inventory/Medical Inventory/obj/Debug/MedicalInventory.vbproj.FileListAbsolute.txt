@@ -1,0 +1,50 @@
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\bin\Debug\Medical Inventory.exe
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\bin\Debug\Medical Inventory.pdb
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\bin\Debug\Medical Inventory.xml
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.CounterSalesForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.CustForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.CustListReport.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.ItemForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.LoginForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.mCatForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.MDIForm1.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.mGroupForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.Resources.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.PurchaseForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.PurchaseRep.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.SalesRep.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.StockRep.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.SupplierForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.WelcomeForm.resources
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\MedicalInventory.vbproj.GenerateResource.Cache
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.exe
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.xml
+C:\Users\AcerPc\Downloads\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.pdb
+G:\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.exe
+G:\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.xml
+G:\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.pdb
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.exe
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.xml
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.pdb
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\bin\Debug\Medical Inventory.exe
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\bin\Debug\Medical Inventory.pdb
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\bin\Debug\Medical Inventory.xml
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.CounterSalesForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.CustForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.CustListReport.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.ItemForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.LoginForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.mCatForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.MDIForm1.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.mGroupForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.Resources.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.PurchaseForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.PurchaseRep.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.SalesRep.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.StockRep.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.SupplierForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\PharmacyManagement.WelcomeForm.resources
+C:\Users\justm\OneDrive\Desktop\Medical Inventory\Medical Inventory\obj\Debug\MedicalInventory.vbproj.GenerateResource.Cache
+C:\Users\Harshan\Desktop\Medical Inventory\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.exe
+C:\Users\Harshan\Desktop\Medical Inventory\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.xml
+C:\Users\Harshan\Desktop\Medical Inventory\Medical Inventory\Medical Inventory\obj\Debug\Medical Inventory.pdb
